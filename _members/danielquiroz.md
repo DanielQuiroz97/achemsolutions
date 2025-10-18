@@ -1,6 +1,6 @@
 ---
 name: Daniel Quiroz, MS
-image: images/team/danielquiroz.jpg
+image: images/team/danielquiroz.jpeg
 role: Analytical Scientist
 affiliation: The Ohio State University
 aliases:
