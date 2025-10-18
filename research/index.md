@@ -14,7 +14,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="MS2extract: an R Package for a Scalable LC-MS/MS Library Creation" style="rich" %}
 
 {% include section.html %}
 
