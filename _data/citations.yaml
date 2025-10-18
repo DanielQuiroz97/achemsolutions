@@ -9,6 +9,7 @@
   date: '2025-10-06'
   link: https://doi.org/g97bjp
   orcid: 0000-0002-9069-9147
+  daniel-quiroz: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.70099/BJ/2024.01.02.4
@@ -24,6 +25,7 @@
   date: '2024-06-15'
   link: https://doi.org/g97bjq
   orcid: 0000-0002-9069-9147
+  daniel-quiroz: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.21931/BJ/2024.01.02.4
@@ -39,6 +41,7 @@
   date: '2024-06-15'
   link: https://doi.org/g97bjr
   orcid: 0000-0002-9069-9147
+  daniel-quiroz: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1186/s12870-024-04854-7
@@ -54,6 +57,7 @@
   date: '2024-03-06'
   link: https://doi.org/g97bjs
   orcid: 0000-0002-9069-9147
+  daniel-quiroz: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.2166/wh.2024.290
@@ -71,6 +75,7 @@
   date: '2024-02-08'
   link: https://doi.org/g97bjt
   orcid: 0000-0002-9069-9147
+  daniel-quiroz: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1128/spectrum.02506-22
@@ -88,6 +93,7 @@
   date: '2022-12-21'
   link: https://doi.org/gq69bd
   orcid: 0000-0002-9069-9147
+  daniel-quiroz: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2022.05.13.489542
@@ -105,6 +111,7 @@
   date: '2022-05-13'
   link: https://doi.org/g97bjv
   orcid: 0000-0002-9069-9147
+  daniel-quiroz: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3389/ffgc.2022.738568
@@ -126,6 +133,7 @@
   date: '2022-03-24'
   link: https://doi.org/g97bjw
   orcid: 0000-0002-9069-9147
+  daniel-quiroz: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.microc.2020.104830
@@ -142,6 +150,7 @@
   date: '2020-07-01'
   link: https://doi.org/g97bjx
   orcid: 0000-0002-9069-9147
+  daniel-quiroz: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1155/2018/4142527
@@ -158,6 +167,7 @@
   date: '2018-08-29'
   link: https://doi.org/gnqzd3
   orcid: 0000-0002-9069-9147
+  daniel-quiroz: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
