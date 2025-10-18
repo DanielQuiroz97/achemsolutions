@@ -1,9 +1,9 @@
 ---
 ---
 
-# DanielQuiroz97's Website
+# Expertise
 
-An engaging 1-3 sentence description of your lab.
+Problem-solving LC-MS specialist with a passion for data analysis and method development. Experienced in Qualitative and Quantitative Analysis, and Metabolomics.
 
 {% include section.html %}
 
