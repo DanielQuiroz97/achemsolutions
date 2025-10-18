@@ -1,16 +1,16 @@
 # site properties and page defaults
-title: DanielQuiroz97
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+title: Daniel Quiroz, MS
+subtitle: Analytical Chemist
+description: Problem-solving LC-MS specialist with a passion for data analysis and method development. Experienced in Qualitative and Quantitative Analysis, and Metabolomics.
 header: images/background.jpg
 footer: images/background.jpg
-proofer: false
+proofer: true
 
 # site social media and other links
 links:
-  email: contact@DanielQuiroz97.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: quirozmoreno.1@osu.edu
+  orcid: 0000-0002-9069-9147
+  google-scholar: OrW7g38AAAAJ
   github: DanielQuiroz97
   twitter: DanielQuiroz97
   youtube: DanielQuiroz97
