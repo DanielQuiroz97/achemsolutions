@@ -1,6 +1,6 @@
 - id: doi:10.1101/2025.10.05.680545
   type: paper
-  description: MS2extract is an R package designed to facilitate the creation of LC-MS/MS
+  description: R package to create in-house LC-MS/MS libraries.
   image: https://github.com/CooperstoneLab/MS2extract/blob/main/man/figures/MS2extract_logo.png?raw=true
   buttons:
     - type: source
@@ -11,4 +11,16 @@
     - mass spectrometry
     - metabolomics
     - R package
+  repo: CooperstoneLab/MS2extract
+
+  - id: doi:10.70099/BJ/2024.01.02.4
+  type: paper
+  description: Evaluation of antagnism between Pseudovibrio denitrificans and Vibrio parahaemolyticus.
+  image: https://bionaturajournal.com/images/2024.01.02.4-Figure-2.jpg
+  buttons:
+    - type: website
+      link: https://bionaturajournal.com/2024.01.02.4.html
+  tags:
+    - mass spectrometry
+    - metabolomics
   repo: CooperstoneLab/MS2extract
