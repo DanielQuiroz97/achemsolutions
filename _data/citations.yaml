@@ -137,8 +137,19 @@
   link: https://doi.org/gq69bd
   orcid: 0000-0002-9069-9147
   daniel-quiroz: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  description: effects of tomato consumption on the gut microbiome, as tomatoes account
+    for 22% of vegetable consumption in Western diets
+  image: https://journals.asm.org/cms/10.1128/spectrum.02506-22/asset/43efd38b-8ea0-448e-bcf6-b8c9a6a6f29c/assets/images/medium/spectrum.02506-22-f001.gif
+  buttons:
+  - type: website
+    link: https://journals.asm.org/doi/10.1128/spectrum.02506-22
+  tags:
+  - Metabolomics
+  - Mass spectrometry
+  - Microbiome
 - id: doi:10.1101/2022.05.13.489542
   title: Short term tomato consumption alters the pig gut microbiome towards a more
     favorable profile
