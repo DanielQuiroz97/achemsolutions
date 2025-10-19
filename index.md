@@ -26,7 +26,7 @@ Discover State-of-the-art Research in *Quantitative* and *Qualitative* **Metabol
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/home/Research.svg"
   link="research"
   title="Our Research"
   text=text
