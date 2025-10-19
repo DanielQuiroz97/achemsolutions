@@ -14,7 +14,7 @@
   file: sources.yaml
   type: paper
   description: MS2extract is an R package designed to facilitate the creation of LC-MS/MS
-  image: https://github.com/CooperstoneLab/MS2extract/blob/main/man/figures/MS2extract_logo.png
+  image: images/research/ms2extract_logo.png
   buttons:
   - type: source
     link: https://github.com/CooperstoneLab/MS2extract
