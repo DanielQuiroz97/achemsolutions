@@ -8,8 +8,8 @@
     - type: website
       link: https://www.cooperstonelab.com/MS2extract/
   tags:
-    - mass spectrometry
-    - metabolomics
+    - Mass spectrometry
+    - Metabolomics
     - R package
   repo: CooperstoneLab/MS2extract
 
@@ -21,6 +21,17 @@
     - type: website
       link: https://bionaturajournal.com/2024.01.02.4.html
   tags:
-    - mass spectrometry
-    - metabolomics
-  repo: CooperstoneLab/MS2extract
+    - Mass spectrometry
+    - Metabolomics
+
+- id: doi:10.1186/s12870-024-04854-7
+  type: paper
+  description: Transcriptomic and metabolomic analyses reveal the role of exogenous
+    abscisic acid in promoting drought resistance in poplar.
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12870-024-04854-7/MediaObjects/12870_2024_4854_Fig5_HTML.png?as=webp
+  buttons:
+    - type: website
+      link: https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-024-04854-7
+  tags:
+    - Microbiome
+    - Bioinformatics
