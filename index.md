@@ -11,7 +11,7 @@ Problem-solving LC-MS specialist with a passion for data analysis and method dev
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Discover State-of-the-art Research in *Quantitative* and *Qualitative* **Metabolomics** and Environmental **genomics**.
 
 {%
   include button.html
