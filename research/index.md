@@ -17,7 +17,7 @@ Our expertise intersects *Bioinformatics*, *Metabolomics* and *Genomics*, which 
 
 {% include citation.html lookup="MS2extract: an R Package for a Scalable LC-MS/MS Library Creation" style="rich" %}
 
-{% include citation.html id="doi:10.1016/j.microc.2020.104830" style="rich" %}
+{% include citation.html lookup="RGCxGC toolbox: An R-package for data processing in comprehensive two-dimensional gas chromatography-mass spectrometry" style="rich" %}
 
 {% include section.html %}
 
