@@ -89,3 +89,14 @@
     - Microbiome
     - Bioinformatics
     - Metagenomics
+
+- id: doi:10.1155/2018/4142527
+  type: paper
+  description: Review of Mass Spectrometry-Based analysis for Forensic Analysis.
+  image: https://onlinelibrary.wiley.com/cms/asset/03788e3d-909f-4484-9fb3-5af593df04d5/jamc4142527-fig-0001b-m.jpg
+  buttons:
+    - type: website
+      link: https://www.hindawi.com/journals/bmri/2018/4142527/
+  tags:
+    - Metabolomics
+    - Mass spectrometry
