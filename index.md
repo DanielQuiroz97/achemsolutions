@@ -11,7 +11,7 @@ Problem-solving LC-MS specialist with a passion for data analysis and method dev
 
 {% capture text %}
 
-Discover State-of-the-art Research in *Quantitative* and *Qualitative* **Metabolomics** and Environmental **genomics**.
+Discover State-of-the-art Research in *Quantitative* and *Qualitative* **Metabolomics** and Environmental **Genomics**.
 
 {%
   include button.html
@@ -34,7 +34,7 @@ Discover State-of-the-art Research in *Quantitative* and *Qualitative* **Metabol
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+A close look at out high-quality work.
 
 {%
   include button.html
@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Meet the passionate and innovative peoople driving analytical chemist research.
 
 {%
   include button.html
