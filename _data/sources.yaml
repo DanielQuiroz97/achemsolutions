@@ -13,7 +13,7 @@
     - R package
   repo: CooperstoneLab/MS2extract
 
-  - id: doi:10.70099/BJ/2024.01.02.4
+- id: doi:10.70099/BJ/2024.01.02.4
   type: paper
   description: Evaluation of antagnism between Pseudovibrio denitrificans and Vibrio parahaemolyticus.
   image: https://bionaturajournal.com/images/2024.01.02.4-Figure-2.jpg
