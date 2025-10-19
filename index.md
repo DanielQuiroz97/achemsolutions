@@ -49,7 +49,7 @@ A close look at out high-quality work.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/home/Projects.jpg"
   link="projects"
   title="Our Projects"
   flip=true
@@ -74,7 +74,7 @@ Meet the passionate and innovative peoople driving analytical chemist research.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Logo.svg"
   link="team"
   title="Our Team"
   text=text
