@@ -21,8 +21,8 @@
   - type: website
     link: https://www.cooperstonelab.com/MS2extract/
   tags:
-  - mass spectrometry
-  - metabolomics
+  - Mass spectrometry
+  - Metabolomics
   - R package
   repo: CooperstoneLab/MS2extract
 - id: doi:10.70099/BJ/2024.01.02.4
@@ -49,9 +49,8 @@
   - type: website
     link: https://bionaturajournal.com/2024.01.02.4.html
   tags:
-  - mass spectrometry
-  - metabolomics
-  repo: CooperstoneLab/MS2extract
+  - Mass spectrometry
+  - Metabolomics
 - id: doi:10.21931/BJ/2024.01.02.4
   title: Initial analysis of profiles from Pseudovibrio denitrificans and Vibrio parahaemolyticus
     antagonism by LC-MS-based metabolomics
@@ -82,8 +81,18 @@
   link: https://doi.org/g97bjs
   orcid: 0000-0002-9069-9147
   daniel-quiroz: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  description: Transcriptomic and metabolomic analyses reveal the role of exogenous
+    abscisic acid in promoting drought resistance in poplar.
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12870-024-04854-7/MediaObjects/12870_2024_4854_Fig5_HTML.png?as=webp
+  buttons:
+  - type: website
+    link: https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-024-04854-7
+  tags:
+  - Microbiome
+  - Bioinformatics
 - id: doi:10.2166/wh.2024.290
   title: Bacterial community assessment of drinking water and downstream distribution
     systems in highland localities of Ecuador
