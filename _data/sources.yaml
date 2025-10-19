@@ -75,3 +75,16 @@
     - Metabolomics
     - Mass spectrometry
     - GCxGC
+
+- id: doi:10.3389/ffgc.2022.738568
+  type: paper
+  description: Microbiome gradient analysis of Sumaco, a Stratovolcano in the Ecuadorian Amazon region.
+  image: https://images-provider.frontiersin.org/api/ipx/w=410&f=webp/https://www.frontiersin.org/files/Articles/738568/ffgc-05-738568-HTML-r1/image_m/ffgc-05-738568-g007.jpg
+    - type: website
+      link: https://www.frontiersin.org/journals/forests-and-global-change/articles/10.3389/ffgc.2022.738568/full
+    - type: source
+      link: http://gitlab.com/ec.microbiome.proj/sumaco-microbiome-year-1
+  tags:
+    - Microbiome
+    - Bioinformatics
+    - Metagenomics
