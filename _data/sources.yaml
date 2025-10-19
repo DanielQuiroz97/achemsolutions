@@ -59,3 +59,19 @@
     - Metabolomics
     - Mass spectrometry
     - Microbiome
+
+- id: doi:10.1016/j.microc.2020.104830
+  type: paper
+  description: GCxGC end-to-end data processing platform workflow for biomarker discovery.
+  image: https://danielquiroz97.github.io/RGCxGC/reference/figures/RGCxGC.png
+  buttons:
+    - type: source
+      link: https://github.com/DanielQuiroz97/RGCxGC
+    - type: website
+      link: https://danielquiroz97.github.io/RGCxGC/
+
+  repo: danielquiroz97/RGCxGC
+  tags:
+    - Metabolomics
+    - Mass spectrometry
+    - GCxGC

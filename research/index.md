@@ -7,8 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Here you will find a extensive list covering topics regarding *Qualitative* and *Quantitative* **Metabolomics**, as well as **Genomics**.
+
+Our expertise intersects *Bioinformatics*, *Metabolomics* and *Genomics*, which enabled high-impact create high-impact research.
 
 {% include section.html %}
 
@@ -16,9 +17,12 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include citation.html lookup="MS2extract: an R Package for a Scalable LC-MS/MS Library Creation" style="rich" %}
 
+{% include citation.html lookup="RGCxGC toolbox: An R-package for data processing in comprehensive two-dimensional
+    gas chromatography-mass spectrometry" style="rich" %}
+
 {% include section.html %}
 
-## All
+## All Publications
 
 {% include search-box.html %}
 
