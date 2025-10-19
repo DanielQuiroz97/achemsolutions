@@ -204,8 +204,21 @@
   link: https://doi.org/g97bjx
   orcid: 0000-0002-9069-9147
   daniel-quiroz: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  description: GCxGC end-to-end data processing platform workflow for biomarker discovery.
+  image: https://danielquiroz97.github.io/RGCxGC/reference/figures/RGCxGC.png
+  buttons:
+  - type: source
+    link: https://github.com/DanielQuiroz97/RGCxGC
+  - type: website
+    link: https://danielquiroz97.github.io/RGCxGC/
+  repo: danielquiroz97/RGCxGC
+  tags:
+  - Metabolomics
+  - Mass spectrometry
+  - GCxGC
 - id: doi:10.1155/2018/4142527
   title: New Advances in Toxicological Forensic Analysis Using Mass Spectrometry Techniques
   authors:
