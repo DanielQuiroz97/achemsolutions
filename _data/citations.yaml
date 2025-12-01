@@ -51,22 +51,6 @@
   tags:
   - Mass spectrometry
   - Metabolomics
-- id: doi:10.21931/BJ/2024.01.02.4
-  title: Initial analysis of profiles from Pseudovibrio denitrificans and Vibrio parahaemolyticus
-    antagonism by LC-MS-based metabolomics
-  authors:
-  - Ricardo Palma
-  - "Bolivar Chal\xE9n"
-  - "Noroska G.S. Mogoll\xF3n"
-  - "Jenny Rodr\xEDguez"
-  - Cristian Quiroz-Moreno
-  publisher: Bionatura Journal
-  date: '2024-06-15'
-  link: https://doi.org/g97bjr
-  orcid: 0000-0002-9069-9147
-  daniel-quiroz: true
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1186/s12870-024-04854-7
   title: "Nutrient availability and plant phenological stage influence the substrate\
     \ microbiome in container-grown Impatiens walleriana \u2018Xtreme Red\u2019"
@@ -149,24 +133,6 @@
   - Metabolomics
   - Mass spectrometry
   - Microbiome
-- id: doi:10.1101/2022.05.13.489542
-  title: Short term tomato consumption alters the pig gut microbiome towards a more
-    favorable profile
-  authors:
-  - Mallory L. Goggans
-  - Emma A. Bilbrey
-  - Cristian Quiroz-Moreno
-  - David M. Francis
-  - Sheila K. Jacobi
-  - Jasna Kovac
-  - Jessica L. Cooperstone
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-05-13'
-  link: https://doi.org/g97bjv
-  orcid: 0000-0002-9069-9147
-  daniel-quiroz: true
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.3389/ffgc.2022.738568
   title: Soil Bacterial Community Along an Altitudinal Gradient in the Sumaco, a Stratovolcano
     in the Amazon Region
